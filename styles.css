@@ -1,0 +1,30 @@
+#heading{
+    font-style: bold;
+    color: rgb(30, 15, 144);
+    font-size: 40px;
+   
+}
+
+.one{
+    font-size: 20px;
+}
+#pic{
+    position: relative;
+    left: 100px;
+}
+.subheading1{
+    font-style: bold;
+    font-size: 30px;
+    color: rgb(95, 13, 171);
+    
+}
+.adv{
+    font-size: 28px;
+    font-style: italic;
+    position: relative;
+    left: 30px;
+    color: rgb(63, 3, 3);
+}
+.image{
+    margin:50px 80px 50px ;
+}
